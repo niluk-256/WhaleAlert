@@ -1,5 +1,5 @@
 # WhaleAlert
-- installation //................... //
+###installation................... 
 - install nodejs
 - git clone : {link}
 - npm install ( to install dependencies)
