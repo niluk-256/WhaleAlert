@@ -1,6 +1,6 @@
 # WhaleAlert
-installation //...................
+installation //................... //
 install nodejs
-git clone : {link}
-npm install ( to install dependencies)
-node index.js (to run the script)
+//git clone : {link}
+//npm install ( to install dependencies)
+//node index.js (to run the script)
